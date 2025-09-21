@@ -44,11 +44,23 @@ export default function Home() {
             explanation: "Standard payment terms with reasonable grace period.",
           },
           {
+            clause: "Tenant may terminate lease before the end of term with 60 days notice",
+            severity: "🔴",
+            risk_level: "high",
+            explanation: "Early termination clauses can be risky for tenants, especially if penalties apply.",
+          },
+          {
             clause: "If rent is delayed, penalty of 10% per day applies",
             severity: "🔴",
             risk_level: "high",
             explanation:
               "Excessive late fee that compounds daily - this is unusually harsh and may not be legally enforceable.",
+          },
+          {
+            clause: "Lease term is valid for 12 months",
+            severity: "🟢",
+            risk_level: "low",
+            explanation: "Standard lease duration with no unusual terms.",
           },
           {
             clause: "Landlord may terminate without notice in case of dispute",
@@ -65,11 +77,30 @@ export default function Home() {
               "Typical responsibility, but ensure 'minor repairs' is clearly defined to avoid disputes.",
           },
           {
+            clause: "Tenent is reponsible for all utility payments",
+            severity: "🟢",
+            risk_level: "low",
+            explanation: "Common clause; just ensure you budget accordingly.",
+          },
+          {
+            clause: "Tenannt is permitted to have 2 pets with a $250 pet deposit",
+            severity: "🟡",
+            risk_level: "medium",
+            explanation:
+              "Pet policies vary; ensure this aligns with your needs and local laws.",
+          },
+          {
             clause: "Security deposit equals two months rent",
             severity: "🟡",
             risk_level: "medium",
             explanation:
               "Higher than average but may be legal depending on local regulations.",
+          },
+          {
+            clause: "Agreement constitutes the entire understanding between parties",
+            severity: "🟢",
+            risk_level: "low",
+            explanation: "Standard integration clause to prevent side agreements.",
           },
         ],
         summary: {

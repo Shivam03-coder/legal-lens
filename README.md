@@ -1,8 +1,8 @@
-# Clarity Counsel AI
+# Legal Lens
 
 ## Transform Complex Legal Documents into Clear Insights
 
-Clarity Counsel AI is a cutting-edge web application designed to simplify legal document analysis. Upload your rental agreements, contracts, or any legal document, and receive instant, AI-powered insights, risk assessments, and easy-to-understand explanations. Our goal is to empower users by making complex legal jargon accessible and actionable.
+Legal Lens is a cutting-edge web application designed to simplify legal document analysis. Upload your rental agreements, contracts, or any legal document, and receive instant, AI-powered insights, risk assessments, and easy-to-understand explanations. Our goal is to empower users by making complex legal jargon accessible and actionable.
 
 ## ✨ Features
 
@@ -21,7 +21,7 @@ Clarity Counsel AI is a cutting-edge web application designed to simplify legal 
 
 ## 🚀 Getting Started
 
-Follow these steps to set up and run the Clarity Counsel AI project locally.
+Follow these steps to set up and run the Legal Lens project locally.
 
 ### Prerequisites
 
